@@ -19,3 +19,8 @@
 .menu.item-bg {
     background-color: #ebb2d6;
 }
+
+.menu-type {
+    height: 220px;
+    object-fit: contain;
+}
