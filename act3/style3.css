@@ -1,0 +1,21 @@
+.body {
+    color: aliceblue;
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    margin-top: 75px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.menu.item {
+    max-height: 100px !important;
+}
+
+.menu.item-bg {
+    background-color: #ebb2d6;
+}
